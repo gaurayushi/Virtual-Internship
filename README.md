@@ -32,5 +32,6 @@ Internship Start Date: [10/12/2023]]
 - CSS3
 - [Animate.css](https://animate.style/) for animations </i>
 
-<p><a href=" https://6553900799cfdb2749373bc0--jolly-cheesecake-a8ff44.netlify.app/">Click me</a></p>
+<br>
 
+<a href="https://6553900799cfdb2749373bc0--jolly-cheesecake-a8ff44.netlify.app/"> Click Me</a>
