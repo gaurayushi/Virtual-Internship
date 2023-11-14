@@ -1,6 +1,6 @@
 # CODSOFT
 <p>
-<strong># Codfost Web Development Internship</strong>  
+<h1><strong># Codfost Web Development Internship</strong>  </h1>
 <br>
 
   
@@ -12,3 +12,7 @@ Application Deadline: [10/11/2023]
   <br>
 Internship Start Date: [10/12/2023]]
 </i></p>
+
+<br>
+
+<p></p>
