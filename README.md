@@ -1,6 +1,6 @@
 # CODSOFT
 <p>
-<h1><strong># Codfost Web Development Internship</strong>  </h1>
+<h1># Codfost Web Development Internship</h1>
 <br>
 
   
