@@ -1,0 +1,306 @@
+  /* Reset default margin and padding for better styling */
+  * {
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    font-family: Arial, sans-serif; /* Specify a default font */
+   
+}
+
+.video-container {
+    float: right; /* Align the video to the left */
+    max-width : 60%; /* Set the width of the video container */
+}
+
+.video-container iframe {
+     max-width: 120%;
+    max-height: 100%;
+   
+}
+/* Style for the container */
+.container {
+    width: 100%;
+    height: 110vh; /* Set the height to the full viewport height */
+    overflow: hidden; /* Hide overflowing content */
+}
+
+/* Style for the background image */
+.container img {
+    width: 100%;
+    height: 120%;
+    object-fit: cover; /* Make the image cover the container */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Place the image behind other content */
+}
+
+/* Style for the navigation menu */
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white; /* Navbar link text color */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* animating the text showing the amazing text decor property */
+#home
+{
+    text-transform: uppercase;
+   background-image: linear-gradient(
+     -225deg,
+     #44107a 29%,
+     #ff1361 67%,
+     #fff800 100%
+   );
+   background-size: 200% auto;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: textclip 2s linear infinite;
+   
+       font-size: 20px;
+ }
+ 
+ @keyframes textclip {
+   to {
+     background-position: 190% center;
+   }
+ }
+ 
+ 
+ #news
+{
+    text-transform: uppercase;
+   background-image: linear-gradient(
+     -225deg,
+     #ff1361 67%,
+     #fff800 100%
+   );
+   background-size: 200% auto;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: textclip 2s linear infinite;
+   
+       font-size: 20px;
+ }
+ 
+ @keyframes textclip {
+   to {
+     background-position: 190% center;
+   }
+ }
+ 
+ 
+ #Article
+{
+    text-transform: uppercase;
+   background-image: linear-gradient(
+     -225deg,
+     #ff1361 67%,
+     #fff800 100%
+   );
+   background-size: 200% auto;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: textclip 2s linear infinite;
+   
+       font-size: 20px;
+ }
+ 
+ @keyframes textclip {
+   to {
+     background-position: 190% center;
+   }
+ }
+ 
+.title
+{
+    text-transform: uppercase;
+   background-image: linear-gradient(
+     -225deg,
+     #44107a 29%,
+     #ff1361 67%,
+     #fff800 100%
+   );
+   background-size: 200% auto;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: textclip 2s linear infinite;
+   
+       font-size: 20px;
+ }
+ 
+ @keyframes textclip {
+   to {
+     background-position: 190% center;
+   }
+ 
+  }
+
+
+ .form
+
+{
+  
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding: 60px;
+  width: 90vh;
+
+
+}
+
+
+.title {
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.subtitle {
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.input-container {
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.ic1 {
+  margin-top: 40px;
+}
+
+.ic2 {
+  margin-top: 30px;
+}
+
+.input {
+  background-color: #303245;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  font-size: 15px;
+  height: 100%;
+  outline: 0;
+  padding: 4px 20px 0;
+  width: 100%;
+}
+
+.cut {
+  
+  border-radius: 10px;
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: -20px;
+  transform: translateY(0);
+  transition: transform 200ms;
+  width: 76px;
+}
+
+.cut-short {
+  width: 50px;
+}
+
+.input:focus ~ .cut,
+.input:not(:placeholder-shown) ~ .cut {
+  transform: translateY(8px);
+}
+
+.placeholder {
+  color: #65657b;
+  font-family: sans-serif;
+  left: 20px;
+  line-height: 14px;
+  position: absolute;
+  transform-origin: 0 50%;
+  transition: transform 200ms, color 200ms;
+  top: 20px;
+}
+
+
+.input:focus ~ .placeholder,
+.input:not(:placeholder-shown) ~ .placeholder {
+  transform: translateY(-30px) translateX(10px) scale(0.75);
+}
+
+.input:not(:placeholder-shown) ~ .placeholder {
+  color: #808097;
+}
+
+.input:focus ~ .placeholder {
+  color: #dc2f55;
+}
+
+.submit {
+  background-color: #08d;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  margin-top: 38px;
+  outline: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.submit:active {
+  background-color:  #dc2f55;
+}
+
+p {
+  color: wheat; 
+  font-size: 14px; 
+  margin-top: 10px; 
+  text-align: center;
+}
+
+a {
+  color: #007BFF; /* Set hyperlink color */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold; /* Make the text bold */
+}
+
+/* Change link color on hover */
+a:hover {
+  color: #0056b3; /* Set a different color on hover */
+}
+
+  .heading {
+    text-align: right;
+    margin-top: 250px; /* Adjust the margin as needed */
+  }
+
+  .heading h2 {
+    color: white; /* Adjust the color as needed */
+    font-size: 45px; /* Adjust the font size as needed */
+    font-weight: bold; /* Adjust the font weight as needed */
+    text-align: right;
+  }
+  
