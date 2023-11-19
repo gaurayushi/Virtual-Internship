@@ -98,6 +98,7 @@ Responsive Layout:
 "Adapting to different screen sizes, the calculator's responsive layout ensures a consistent and visually pleasing experience on various devices."
 Code Readability:
 "with clean and well-organized JavaScript code, the calculator's functions are modular and easy to understand, promoting maintainability and future development."
+  "usage of event handlers and conditional statement as welll"
 </i></p>
 <br>
 <i>## Technologies Used
@@ -108,7 +109,7 @@ Code Readability:
 
 <br>
 
-<a href="https://6559f3c043f2591e9455edab--lucky-basbousa-de8e27.netlify.app/"> ------> Click Me</a>
+<a href="https://6559f88751cc1b25a23ba276--flourishing-naiad-87fe45.netlify.app/"> ------> Click Me</a>
 
 
 
