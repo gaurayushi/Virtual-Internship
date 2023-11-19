@@ -15,7 +15,7 @@ Internship Start Date: [10/12/2023]]
 
 <br>
 <h2>
-  <h1 style="text-align:center>Level -1</h1> 
+  
 # Task 1: landing page  </h2>
 <p><i>Welcome to my  landing page ! This project showcases my skills, 
 ## Features (how to structure a column  divison on  landing page )
