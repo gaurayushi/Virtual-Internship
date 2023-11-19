@@ -113,12 +113,12 @@ Code Readability:
 <a href="https://6559f88751cc1b25a23ba276--flourishing-naiad-87fe45.netlify.app/"> ------> Click Me</a>
 
 
-
+ <h1 style="text-align:center"> Level 2 </h1>
 
 
 <p><emp> "Progressing to Level 2 signifies the willingness to go beyond comfort zones and embrace new horizons."</emp></p>
 
-<h2 style="text-align:center"># Task 1:Tribute page</h2>
+<h2># Task 1:Tribute page</h2>
 <p><i>Welcome to my Tribute page  repository! This project showcases my skills,  <br>
   ## Features
 Responsive Layout:
