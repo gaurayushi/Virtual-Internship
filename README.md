@@ -113,30 +113,22 @@ Code Readability:
 <a href="https://6559f88751cc1b25a23ba276--flourishing-naiad-87fe45.netlify.app/"> ------> Click Me</a>
 
 
-<br>
+
+
+
 <p><emp> "Progressing to Level 2 signifies the willingness to go beyond comfort zones and embrace new horizons."</emp></p>
 
-    <h1 style="text-align:center">Level -2</h1> 
-<h2># Task 1:Tribute page</h2>
-<p><i>Welcome to my Tribute page  repository! This project showcases my skills, 
-  Purpose:""
-## Features
+<h2 style="text-align:center"># Task 1:Tribute page</h2>
+<p><i>Welcome to my Tribute page  repository! This project showcases my skills,  <br>
+  ## Features
 Responsive Layout:
 "Adapting to different screen sizes, the calculator's responsive layout ensures a consistent and visually pleasing experience on various devices."
 Code Readability:
-"with clean and well-organized JavaScript code, the calculator's functions are modular and easy to understand, promoting maintainability and future development."
+ "with clean and well-organized JavaScript code, the calculator's functions are modular and easy to understand, promoting maintainability and future development."
   "usage of event handlers and conditional statement as welll"
 
 </i></p>
 <br>
-<i>## Technologies Used
-
-- HTML5
-- CSS
-- 
-
-<br>
-
 <a href="https://6559fbdf5b5dda24e0603d9e--thriving-lamington-eb63bf.netlify.app/"> ------> Click Me</a>
 
 
