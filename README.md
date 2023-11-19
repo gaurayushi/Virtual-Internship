@@ -83,3 +83,32 @@ Code Optimization:
 
 <a href="https://6553900799cfdb2749373bc0--jolly-cheesecake-a8ff44.netlify.app/"> ------> Click Me</a>
 
+
+
+
+
+
+<br>
+<h2>
+# Task #3:  calculator Creation </h2>
+<p><i>Welcome to my calculator repository! This project showcases my skills, 
+  Purpose:"Designed with simplicity in mind, this calculator provides a  straightforward interface for basic mathematical operations, offering a user-friendly experience."
+## Features
+Responsive Layout:
+"Adapting to different screen sizes, the calculator's responsive layout ensures a consistent and visually pleasing experience on various devices."
+Code Readability:
+"with clean and well-organized JavaScript code, the calculator's functions are modular and easy to understand, promoting maintainability and future development."
+</i></p>
+<br>
+<i>## Technologies Used
+
+- HTML5
+- CSS
+- javascript </i>
+
+<br>
+
+<a href="https://6559f2f7551d4422abb7cb8f--zesty-platypus-bd10fb.netlify.app/"> ------> Click Me</a>
+
+
+
