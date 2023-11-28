@@ -8,9 +8,9 @@
 <strong>About the Internship  </strong><i> This repository serves as the central hub for the Codsoft Web Development Internship program.</i>
 <br>
 <p><i>
-Application Deadline: [10/11/2023] 
+Application Deadline: [15/12/2023] 
   <br>
-Internship Start Date: [10/12/2023]]
+Internship Start Date: [15/11/2023]]
 </i></p>
 
 <br>
