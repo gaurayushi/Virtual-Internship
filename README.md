@@ -1,6 +1,6 @@
 # VIRTUAL INTERNSHIP
 <p>
-<h1># Codfost Web Development Internship</h1>
+<h1># Web Development Internship</h1>
 <br>
 
   
