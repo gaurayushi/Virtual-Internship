@@ -1,0 +1,238 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+  /* Body Styles */
+  body {
+    font-family: 'Poppins', sans-serif; 
+    background-image: url(photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation: image 6s ease-in-out 5s infinite normal;
+    
+    
+  }
+  
+@keyframes image {
+  0%{
+background-image: url(https://wallpapercave.com/wp/wp4513816.jpg);
+
+  }
+  50%{
+    background-image: url(https://www.itl.cat/pngfile/big/109-1097677_beautiful-waterfalls-sceneries-wallpaper-beautiful-water-fall-scenery.jpg);
+  }
+
+}
+
+  
+  /* Main Box Styles */
+  .main_box {
+    display: flex;
+    padding-bottom: 40em;
+    
+  }
+  
+  /* Checkbox Styles */
+  #check {
+    display: none;
+  }
+  
+  /* Toggle Sidebar when Checkbox is Checked */
+  #check:checked ~ .sidebar_menu {
+    width: 300px; /* Adjust the width as needed */
+  }
+  #check:checked ~ .btn_one {
+    opacity: 0;
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  /* Button One Styles */
+  .btn_one {
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  /* Button One Styles */
+  .btn_one i
+  {
+    color: white;
+    font-size: 19px;
+      font-weight: 700;
+    position: relative;
+    left: 16px;
+    line-height: 89px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+  }
+  
+  /* Sidebar Menu Styles */
+  .sidebar_menu {
+    width: 0;
+    height: 100vh;
+    background-color: hwb(0 7% 93%);
+    position: fixed;
+    transition: all 0.4s linear;
+    overflow-y: auto;
+    display: block;
+    opacity: 0.9;
+  }
+  
+  .sidebar_menu a {
+    text-decoration: none;
+    color: hsl(220, 4%, 29%);
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar_menu a i {
+    margin-right: 10px;
+    margin-top: 30px;
+  }
+  
+  /* Logo Styles */
+  .logo {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgba(8, 15, 20, 0.0);
+    animation: grow-and-shrink 1s  2s ease-in-out infinite; /* Add the animation property */
+ 
+  }
+
+  @keyframes grow-and-shrink {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+   
+  
+  .logo a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Button Two Styles */
+  .btn_two {
+    text-align: right;
+    padding: 10px;
+   
+  }
+  
+  .btn_two:hover {
+    font-size: 20px;
+    
+  }
+  
+  .btn_one:hover {
+    font-size: 20px;
+  }
+  
+  .btn_one i:hover{
+    font-size: 30px;
+  }
+  
+.menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu li {
+  padding: 15px 20px;
+  transition: background-color 0.3s;
+  transition-duration: 1s;
+ 
+}
+
+.menu li i {
+  vertical-align: middle;
+  margin-right: 10px; 
+  transition-duration: 1s;
+ 
+}
+
+.menu li:hover {
+  background-color: hsl(219, 28%, 88%);
+  box-shadow: 0px 0px 4px rgba(255, 255, 255, 0.5);
+}
+
+.social-media-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+
+  
+  
+  @media screen and (max-width: 600px) {
+    .sidebar_menu {
+      width: 0;
+    }
+  
+    #check:checked ~ .sidebar_menu {
+      width: 200%;
+    }
+  
+    #check:checked ~ .sidebar_menu .btn_two {
+      opacity: 1;
+    }
+  
+    .menu {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .menu li {
+      text-align: center;
+    }
+  
+    .social-media-links {
+      flex-direction: row; /* Keep the links in a row on small screens */
+    }
+
+  }
+
+  @keyframes fade-out {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+
+  .dropdown li {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse; 
+    animation: fade-out 1000ms;
+    animation-fill-mode: forwards;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .dropdown:hover li {
+    opacity: 1;
+    animation: none; 
+  }
+
+ 
