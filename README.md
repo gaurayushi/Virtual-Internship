@@ -14,15 +14,10 @@ Internship Start Date: [15/11/2023]]
 </i></p>
 
 <br>
-<h2>Task 1 Landing page </h2>
+<h2>Task 1 Landing page 
+<a href="https://6557aeabfc11050932761909--leafy-khapse-aa8ecc.netlify.app/"> ------> Click Me</a></h2>
 <br>
-<a href="https://6557aeabfc11050932761909--leafy-khapse-aa8ecc.netlify.app/"> ------> Click Me</a>
-<br>
-
-<h2>
-# Task 2: Portfolio Creation </h2>
-<p><i>Welcome to my portfolio repository! This project showcases my skills, 
-<a href="https://656632bd2d35440326ba95c9--sage-muffin-bc186b.netlify.app/"> ------> Click Me</a>
+<h2># Task 2: Portfolio Creation <a href="https://656632bd2d35440326ba95c9--sage-muffin-bc186b.netlify.app/"> ------> Click Me</a></h2>
 <br>
 <h2>
   
