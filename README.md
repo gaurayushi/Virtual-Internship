@@ -35,7 +35,7 @@ Internship Start Date: [15/11/2023]]
 
 # Task #4:  tour and travel </h2>
 <i>## Technologies Used
-<a href=" https://65fec9187fedfff1775437dc--stellar-pavlova-0e96d9.netlify.app/"> ------> Click Me</a>
+<a href=" https://65fec9187fedfff1775437dc--stellar-pavlova-0e96d9.netlify.app/">  Click Me</a>
 
 <p>
 <h1># Octanet Web Development Internship</h1>
