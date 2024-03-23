@@ -17,75 +17,25 @@ Internship Start Date: [15/11/2023]]
 <h2>
     <h1 style="text-align:center">Level -1</h1> 
 # Task 1: landing page  </h2>
-## Features (how to structure a column  divison on  landing page )
-  
-<i>## Technologies Used
-- HTML5
-- CSS3
-- [Animate.css](https://animate.style/) for animations </i>
-
+## Features (how to structure a column  divison on  landing page 
 <br>
-
 <a href="https://6557aeabfc11050932761909--leafy-khapse-aa8ecc.netlify.app/"> ------> Click Me</a>
-
-
 <br>
 <h2>
 # Task 2: Portfolio Creation </h2>
 <p><i>Welcome to my portfolio repository! This project showcases my skills, 
-## Features
-
-- **About Me:** A brief introduction to who I am and my background.
-- **Skills:** A list of my technical skills and areas of expertise.
-- **Projects:** Showcase of the projects I have worked on, including descriptions and links.
-- **Resume:** Download link to my resume for a comprehensive view of my qualifications.
-- **Animations:** Interactive elements and animations to enhance the user experience.
-</i></p>
-<br>
-<i>## Technologies Used
-
-- HTML5
-- CSS3
-- [Animate.css](https://animate.style/) for animations </i>
-
-<br>
-
 <a href="https://656632bd2d35440326ba95c9--sage-muffin-bc186b.netlify.app/"> ------> Click Me</a>
-
-
-
-
-
-
 <br>
 <h2>
 # Task #3:  calculator Creation </h2>
-<i>## Technologies Used
-
-- HTML5
-- CSS
-- javascript </i>
-
-<br>
-
 <a href="https://6559f88751cc1b25a23ba276--flourishing-naiad-87fe45.netlify.app/"> ------> Click Me</a>
-
-
 # Task #4:  photo gallery </h2>
 <i>## Technologies Used
-
-- HTML5
-- CSS
-- javascript </i>
-
-<br>
-
 <a href="https://65d2f8242c9d7ac277770ba9--effervescent-cascaron-2ce016.netlify.app/"> ------> Click Me</a>
 
-
-
-
-
+# Task #4:  tour and travel </h2>
+<i>## Technologies Used
+<a href=" https://65fec9187fedfff1775437dc--stellar-pavlova-0e96d9.netlify.app/"> ------> Click Me</a>
 
 <p>
 <h1># Octanet Web Development Internship</h1>
