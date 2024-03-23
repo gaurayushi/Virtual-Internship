@@ -29,13 +29,14 @@ Internship Start Date: [15/11/2023]]
 <h2>
 # Task #3:  calculator Creation </h2>
 <a href="https://6559f88751cc1b25a23ba276--flourishing-naiad-87fe45.netlify.app/"> ------> Click Me</a>
-# Task #4:  photo gallery </h2>
+<br>
+  # Task #4:  photo gallery </h2>
 <i>## Technologies Used
 <a href="https://65d2f8242c9d7ac277770ba9--effervescent-cascaron-2ce016.netlify.app/"> ------> Click Me</a>
-
+<br>
 # Task #4:  tour and travel </h2>
 <i>## Technologies Used
-<a href=" https://65fec9187fedfff1775437dc--stellar-pavlova-0e96d9.netlify.app/">  Click Me</a>
+<a href="https://65fec9187fedfff1775437dc--stellar-pavlova-0e96d9.netlify.app/">  Click Me</a>
 
 <p>
 <h1># Octanet Web Development Internship</h1>
